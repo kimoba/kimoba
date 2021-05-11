@@ -3,7 +3,7 @@
 - ✨ I’m currently learning Javascript and Python
 - 🏡 Attending Code in Place 2021 & Code Platoon's Bootcamp Prep Course
 - 🏕️ Hoping to attend a coding bootcamp!
-- 🖌️ I like to draw sometimes.
+- 🖌️ I like to draw sometimes — check out [my portfolio](https://oba.kim)!
 - 💓 I'm obssessed with corgis!
 
 <!---
