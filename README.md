@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kim!
-- 🖥️ interested in becomming a programmer :)
 - ✨ currently learning Javascript and Python
-- 🏡 attending Code in Place 2021 & Code Platoon's Bootcamp Prep Course
-- 🏕️ hoping to attend a coding bootcamp!
+- 🏡 attended Code in Place 2021 & Code Platoon's Bootcamp Prep Course
+- 🏕️ hoping to attend a coding bootcamp one day!
 - 🖌️ occasionally draws and designs — check out [my portfolio](https://oba.kim)!
 - 💓 obssessed with corgis!
 
